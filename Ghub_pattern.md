@@ -1,13 +1,13 @@
 # Custom Desktop PC Build – Group X
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S18  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- Balajadia, John Ryan Uy
+- Chan, Sidney Sy
+- Dulatre, Rainier Antolin
+- Francisco, Zachary Mitchell Prestosa
+- Simbillo, Jose Miguel Banan
 
 ---
 
@@ -19,7 +19,7 @@ Mention: target use case (e.g., general-purpose desktop, gaming, programming, da
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: _________
+PCPartPicker Permalink: https://pcpartpicker.com/list/sF8TwP
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
@@ -40,7 +40,7 @@ PCPartPicker Permalink: _________
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________  
+Google spreadsheet link: https://docs.google.com/spreadsheets/d/1C29xVJDVLCVpdn5d8WlNp0gyoB7TqLOu5EHGl45GD14/edit?usp=sharing
 
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
