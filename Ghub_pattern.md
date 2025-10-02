@@ -15,6 +15,10 @@
 Briefly describe your project build (1–2 paragraphs).  
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
 
+This build is a high-end intel based gaming pc. It uses the Intel Core i9-14900K processor with a modern ASUS motherboard. For the RAM it uses a 64GB DDR5 memory, plenty of storage with NVME and SATA SSDs. It also has a reliable 850W power supply. For the graphics, it uses a Zotac RTX, which is capable of handling todays games in high settings. The fractal North XL case and cooling fans keep everything running cool and quiet.
+
+Target use case: gaming
+
 ---
 
 ## 2. Draft Build (PCPartPicker)
