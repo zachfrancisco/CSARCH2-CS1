@@ -50,7 +50,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1C29xVJDVLCVpdn5
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
 | CPU             | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor   | [DataBlitz](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [DataBlitz](link)    | ...         | Fits case clearance                  |
+| CPU Cooler      | Arctic Liquid Freezer III Pro 360 A-RGB Multi Compatible AIO CPU Water Cooler (Black)   | [DataBlitz](link)    | ...         | Fits case clearance                  |
 | Motherboard     | ...   | [DataBlitz](link) | ...         | Supports DDR5 RAM                    |
 | RAM             | ...   | [DataBlitz](link) | ...         | DDR5-5200 CL40, 2x8GB                |
 | Storage 1 (SSD) | ...   | [DataBlitz](link) | ...         | NVMe M.2 slot supported              |
