@@ -23,7 +23,7 @@ Target use case: gaming
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: https://pcpartpicker.com/list/sF8TwP
+PCPartPicker Permalink: https://pcpartpicker.com/list/yrgYsp
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
@@ -76,9 +76,9 @@ For each part, explain compatibility and choices.
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
+- **Budget Limit**: ₱200,000-₱210,000  
+- **Final Total**: ₱205,805
+- ✅ Within budget 
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
 
 ---
