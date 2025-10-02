@@ -65,10 +65,13 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1C29xVJDVLCVpdn5
 
 ## 4. Compatibility Justification
 For each part, explain compatibility and choices.  
-Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
+
+- **CPU + Motherboard**: Intel Core i9-14900K uses the LGA 1700 socket, which matches the MSI MAG Z790 Tomahawk Max WiFi Intel Motherboard.
+- **Cooler**: The Arctic Liquid Freezer III Pro 360 AIO is compatible with the LGA 1700 socket and fits well in the spacious Fractal Design North XL case
+- **RAM**: Corsair Vengeance DDR5 64GB (2×32GB) 6000MHz is fully supported by the motherboard’s DDR5 slots  
+- **GPU**: Zotac Gaming RTX 5080 fits inside the Fractal North XL case. The motherboard provides the required PCIe x16 slot, and the 850W PSU supplies sufficient power 
+- **PSU**: 2025 Corsair RM850E (850W) provides reliable and efficient power delivery. It meets the GPU and CPU power requirements
+- **Case + Cooling**: he Fractal North XL supports full-size ATX motherboards, large GPUs and multiple fans. 
 
 ---
 
