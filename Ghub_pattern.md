@@ -49,16 +49,16 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1C29xVJDVLCVpdn5
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
-| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
-| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                        |
-| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                         |
+| CPU             | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor   | [DataBlitz](link) | ...         | Socket LGA1700 compatible with B760M |
+| CPU Cooler      | ...   | [DataBlitz](link)    | ...         | Fits case clearance                  |
+| Motherboard     | ...   | [DataBlitz](link) | ...         | Supports DDR5 RAM                    |
+| RAM             | ...   | [DataBlitz](link) | ...         | DDR5-5200 CL40, 2x8GB                |
+| Storage 1 (SSD) | ...   | [DataBlitz](link) | ...         | NVMe M.2 slot supported              |
+| Storage 2 (HDD) | ...   | [DataBlitz](link)   | ...         | SATA port supported                  |
+| GPU             | ...   | [DataBlitz](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
+| PSU             | ...   | [DataBlitz](link)   | ...         | 650W, 80+ Bronze                     |
+| Case            | ...   | [DataBlitz](link)    | ...         | ATX Mid-Tower                        |
+| Case Fans       | ...   | [DataBlitz](link)    | ...         | 120mm, 3-pin                         |
 | **Total**       |       |                    | **XXX Php** | Within budget                        |
 
 ---
