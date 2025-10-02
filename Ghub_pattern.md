@@ -49,16 +49,16 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1C29xVJDVLCVpdn5
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor   | [DataBlitz](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | Arctic Liquid Freezer III Pro 360 A-RGB Multi Compatible AIO CPU Water Cooler (Black)   | [DataBlitz](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [DataBlitz](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [DataBlitz](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [DataBlitz](link) | ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [DataBlitz](link)   | ...         | SATA port supported                  |
-| GPU             | ...   | [DataBlitz](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | ...   | [DataBlitz](link)   | ...         | 650W, 80+ Bronze                     |
-| Case            | ...   | [DataBlitz](link)    | ...         | ATX Mid-Tower                        |
-| Case Fans       | ...   | [DataBlitz](link)    | ...         | 120mm, 3-pin                         |
+| CPU             | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor   | [DataBlitz](link) | 29995         | Socket LGA1700 compatible with B760M |
+| CPU Cooler      | Arctic Liquid Freezer III Pro 360 A-RGB Multi Compatible AIO CPU Water Cooler (Black)   | [DataBlitz](link)    | 6095         | Fits case clearance                  |
+| Motherboard     | MSI Pro Z790-A MAX WiFi DDR5 Motherboard   | [DataBlitz](link) | 17495         | Supports DDR5 RAM                    |
+| RAM             | Corsair Vengeance RGB 64GB (2X32GB) 6000MHZ DDR5 DRAM Memory Kit   | [DataBlitz](link) | 13795         | DDR5-5200 CL40, 2x8GB                |
+| Storage 1 (SSD) | WD Black SN850X 2TB NVME M.2 2280 PCie Gen4 Internal Gaming SSD Compatible w/ PS5 (w/ Heatsink) (WDS200T2XHE)   | [DataBlitz](link) | 11495         | NVMe M.2 slot supported              |
+| Storage 2 (HDD) | Samsung 870 EVO Sata III 2.5” SSD (2TB)   | [DataBlitz](link)   | 9995         | SATA port supported                  |
+| GPU             | Zotac Gaming GeForce RTX 5080 Solid OC 16GB GDDR7 Graphics Card (ZT-B50800J-10P)   | [DataBlitz](link)    | 91995        | Requires 2×8-pin PCIe, PSU supports  |
+| PSU             | Corsair SF Series SF1000 1000W 80+ Platinum Fully Modular Low-Noise SFX Power Supply   | [DataBlitz](link)   | 12495         | 650W, 80+ Bronze                     |
+| Case            | Fractal Design North XL Computer Case (Charcoal Black Mesh)   | [DataBlitz](link)    | 10995         | ATX Mid-Tower                        |
+| Case Fans       | Arctic P12 Pro PST 5-Pack 120mm PWM Fan with Cable Splitter (Black) (ACFAN00307A)   | [DataBlitz](link)    | 1450         | 120mm, 3-pin                         |
 | **Total**       |       |                    | **XXX Php** | Within budget                        |
 
 ---
