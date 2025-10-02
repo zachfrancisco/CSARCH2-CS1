@@ -15,7 +15,7 @@
 Briefly describe your project build (1–2 paragraphs).  
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
 
-This build is a high-end intel based gaming pc. It uses the Intel Core i9-14900K processor with a modern MSI MAG Z790 motherboard. For the RAM it uses a 64GB DDR5 memory, plenty of storage with NVME and SATA SSDs. It also has a reliable 850W power supply. For the graphics, it uses a Zotac RTX, which is capable of handling todays games in high settings. The fractal North XL case and cooling fans keep everything running cool and quiet. Our budget constraint is 200000 to 2100000 pesos.
+This build is a high-end intel based gaming pc. It uses the Intel Core i9-14900K processor with a modern MSI MAG Z790 motherboard. The CPU cooler is the Arctic Liquid Freezer II Pro which is a water cooler ensuring that the CPU is cooled at all times whether at idle or under stress. For the RAM it has 64GB DDR5 memory (2x32 6000Mhz), plenty of storage with 2 terabytes of NVME and 2 terabytes of SATA SSDs, enough for storing an ample amount of data while being blazingly fast for normal usage. With the speed of SSDs, particularly with the Western Digital SN850x, expect abnormally fast speeds, notably, in loading games. It also has a reliable 1000W 80+ platinum power supply from Corsair and is highly rated among those who've used it. For the graphics card, it uses an Zotac RTX 5080, which is capable of handling todays games in very high settings at 4k resolution due to having 16 GB of VRAM and various propriety NVIDIA software technologies such as Deep Learning Super Sampling (DLSS) and Frame Generation. Not only that, having an NVIDIA card gives you access to CUDA which could be very useful depending on the usecase (e.g. 3d modeling, Machine Learning, etc.). The Fractal North XL case and cooling fans keep everything running cool and quiet while also providing a rather stealthy look for a gaming computer. With a budget of 200,000 to 210,000 pesos, a computer of this class is possible as. 
 
 Target use case: gaming
 
@@ -68,9 +68,9 @@ For each part, explain compatibility and choices.
 
 - **CPU + Motherboard**: Intel Core i9-14900K uses the LGA 1700 socket, which matches the MSI MAG Z790 Tomahawk Max WiFi Intel Motherboard.
 - **Cooler**: The Arctic Liquid Freezer III Pro 360 AIO is compatible with the LGA 1700 socket and fits well in the spacious Fractal Design North XL case
-- **RAM**: Corsair Vengeance DDR5 64GB (2×32GB) 6000MHz is fully supported by the motherboard’s DDR5 slots  
-- **GPU**: Zotac Gaming RTX 5080 fits inside the Fractal North XL case. The motherboard provides the required PCIe x16 slot, and the 850W PSU supplies sufficient power 
-- **PSU**: 2025 Corsair RM850E (850W) provides reliable and efficient power delivery. It meets the GPU and CPU power requirements
+- **RAM**: Corsair Vengeance DDR5 64GB (2×32GB) 6000MHz is fully supported by the motherboard’s DDR5 slots and since the motherboard supports XMP (Extreme Memory Profiles), overclocking the memory is available.
+- **GPU**: Zotac Gaming RTX 5080 fits inside the Fractal North XL case. The motherboard provides the required PCIe x16 slot, and the 1000W PSU supplies sufficient power 
+- **PSU**: Corsair SF1000 (1000W) provides reliable and efficient power delivery. It meets the GPU and CPU power requirements
 - **Case + Cooling**: he Fractal North XL supports full-size ATX motherboards, large GPUs and multiple fans. 
 
 ---
@@ -97,4 +97,5 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
