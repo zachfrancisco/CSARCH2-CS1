@@ -79,7 +79,9 @@ For each part, explain compatibility and choices.
 - **Budget Limit**: ₱200,000-₱210,000  
 - **Final Total**: ₱205,805
 - ✅ Within budget 
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+- The GPU (RTX 5080) is the single most expensive component, taking up almost half of the budget (44.7%).
+- The CPU and GPU were prioritized with the combined prices (121,900) being nearly 60% of the entire budget.
+- Rather than using an HDD for secondary storage, a SATA SSD was used due to better performance and budget.
 
 ---
 
@@ -97,6 +99,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 
