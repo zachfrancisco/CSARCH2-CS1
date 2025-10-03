@@ -23,19 +23,19 @@ This build uses **PCPartPicker System Builder** for compatibility check.
 PCPartPicker Permalink: https://pcpartpicker.com/list/yrgYsp
 
 ### Summary Table 
-| Component       | Model | Price (USD) | Notes |
-|-----------------|-------|-----------------|-------|
-| CPU             | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor   | 438.94             | ...   |
-| CPU Cooler      | Arctic Liquid Freezer III Pro 360 A-RGB Multi Compatible AIO CPU Water Cooler (Black)   | 89.99              | ...   |
-| Motherboard     | MSI Pro Z790-A MAX WiFi DDR5 Motherboard   |    259.99         | ...   |
-| RAM             | Corsair Vengeance RGB 64GB (2X32GB) 6000MHZ DDR5 DRAM Memory Kit   |     314.99         | ...   |
-| Storage 1       | WD Black SN850X 2TB NVME M.2 2280 PCie Gen4 Internal Gaming SSD Compatible w/ PS5 (w/ Heatsink) (WDS200T2XHE)   | 159.99             | ...   |
-| Storage 2       | Samsung 870 EVO Sata III 2.5” SSD (2TB)   | 149.95             | ...   |
-| Graphics Card   | Zotac Gaming GeForce RTX 5080 Solid OC 16GB GDDR7 Graphics Card (ZT-B50800J-10P)   | 1379.99             | ...   |
-| Power Supply    | Corsair SF Series SF1000 1000W 80+ Platinum Fully Modular Low-Noise SFX Power Supply   | 229.99             | ...   |
-| Case            | Fractal Design North XL Computer Case (Charcoal Black Mesh)   | 159.99             | ...   |
-| Case Fans       | Arctic P12 Pro PST 5-Pack 120mm PWM Fan with Cable Splitter (Black) (ACFAN00307A)   | 27.49             | ...   |
-| **Total**       |       | **3211.31 USD**     |       |
+| Component       | Model                                                                                                           | Price (USD)      | Notes |
+|-----------------|-----------------------------------------------------------------------------------------------------------------|------------------|-------|
+| CPU             | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor                                                 | 438.94           | ...   |
+| CPU Cooler      | Arctic Liquid Freezer III Pro 360 A-RGB Multi Compatible AIO CPU Water Cooler (Black)                           | 89.99            | ...   |
+| Motherboard     | MSI Pro Z790-A MAX WiFi DDR5 Motherboard                                                                        | 259.99           | ...   |
+| RAM             | Corsair Vengeance RGB 64GB (2X32GB) 6000MHZ DDR5 DRAM Memory Kit                                                | 314.99           | ...   |
+| Storage 1       | WD Black SN850X 2TB NVME M.2 2280 PCie Gen4 Internal Gaming SSD Compatible w/ PS5 (w/ Heatsink) (WDS200T2XHE)   | 159.99           | ...   |
+| Storage 2       | Samsung 870 EVO Sata III 2.5” SSD (2TB)                                                                         | 149.95           | ...   |
+| Graphics Card   | Zotac Gaming GeForce RTX 5080 Solid OC 16GB GDDR7 Graphics Card (ZT-B50800J-10P)                                | 1379.99          | ...   |
+| Power Supply    | Corsair SF Series SF1000 1000W 80+ Platinum Fully Modular Low-Noise SFX Power Supply                            | 229.99           | ...   |
+| Case            | Fractal Design North XL Computer Case (Charcoal Black Mesh)                                                     | 159.99           | ...   |
+| Case Fans       | Arctic P12 Pro PST 5-Pack 120mm PWM Fan with Cable Splitter (Black) (ACFAN00307A)                               | 27.49            | ...   |
+| **Total**       |                                                                                                                 | **3211.31 USD**  |       |
 
 ---
 
@@ -95,12 +95,9 @@ However, building a PC is always influenced by practical constraints such as loc
 - https://youtu.be/42sNjeNbclk
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted
-
 - https://ecommerce.datablitz.com.ph/
 - https://pcpartpicker.com/list/yrgYsp
+
 
 
 
