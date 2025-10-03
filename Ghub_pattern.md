@@ -61,14 +61,13 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1C29xVJDVLCVpdn5
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-
-- **CPU + Motherboard**: Intel Core i9-14900K uses the LGA 1700 socket, which matches the MSI MAG Z790 Tomahawk Max WiFi Intel Motherboard.
-- **Cooler**: The Arctic Liquid Freezer III Pro 360 AIO is compatible with the LGA 1700 socket and fits well in the spacious Fractal Design North XL case
-- **RAM**: Corsair Vengeance DDR5 64GB (2×32GB) 6000MHz is fully supported by the motherboard’s DDR5 slots and since the motherboard supports XMP (Extreme Memory Profiles), overclocking the memory is available.
-- **GPU**: Zotac Gaming RTX 5080 fits inside the Fractal North XL case. The motherboard provides the required PCIe x16 slot, and the 1000W PSU supplies sufficient power 
-- **PSU**: Corsair SF1000 (1000W) provides reliable and efficient power delivery. It meets the GPU and CPU power requirements
-- **Case + Cooling**: The Fractal North XL supports full-size ATX motherboards, large GPUs and multiple fans. 
+- **CPU + Motherboard**: The Intel Core i9-14900K uses the LGA 1700 socket, which is fully supported by the MSI Pro Z790-A MAX WiFi DDR5 motherboard. This ensures proper compatibility and access to the latest chipset features.
+- **Cooler**: The Arctic Liquid Freezer III Pro 360 A-RGB is compatible with the LGA 1700 socket and easily fits inside the Fractal Design North XL case, providing efficient cooling even under heavy loads.
+- **RAM**: The Corsair Vengeance RGB DDR5 64GB kit (2×32GB, 6000MHz) is supported by the motherboard’s DDR5 DIMM slots. With XMP (Extreme Memory Profile) enabled, the memory can run at its rated high speed for improved performance.
+- **Storage**: The WD Black SN850X 2TB NVMe Gen4 SSD installs directly into the motherboard’s M.2 slots, while the Samsung 870 EVO 2TB SATA SSD connects via standard SATA ports. Both are fully supported and complement each other for fast and ample storage.
+- **GPU**: The Zotac Gaming GeForce RTX 5080 fits comfortably inside the Fractal North XL case, and the MSI Pro Z790-A MAX motherboard provides the required PCIe x16 slot. The Corsair SF1000 1000W PSU delivers sufficient power for both the CPU and GPU.
+- **PSU**: The Corsair SF1000 (1000W, 80+ Platinum, SFX) provides stable and efficient power delivery. Despite its compact SFX form factor, it is fully capable of handling this high-performance system.
+- **Case + Cooling**: The Fractal Design North XL supports full-size ATX motherboards, large graphics cards, and multiple cooling solutions. Together with the Arctic P12 Pro PWM fans, the case ensures excellent airflow and quiet operation.
 
 ---
 
@@ -102,6 +101,7 @@ However, building a PC is always influenced by practical constraints such as loc
 
 - https://ecommerce.datablitz.com.ph/
 - https://pcpartpicker.com/list/yrgYsp
+
 
 
 
