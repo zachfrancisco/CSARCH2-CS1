@@ -92,7 +92,7 @@ However, building a PC is always influenced by practical constraints such as loc
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- https://youtu.be/42sNjeNbclk
 
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
