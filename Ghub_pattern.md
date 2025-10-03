@@ -46,16 +46,16 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1C29xVJDVLCVpdn5
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-14900k-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900k) | 29995         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | Arctic Liquid Freezer III Pro 360 A-RGB Multi Compatible AIO CPU Water Cooler (Black)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/arctic-liquid-freezer-iii-pro-360-a-rgb-multi-compatible-aio-cpu-water-cooler-black-white)    | 6095         | Fits case clearance                  |
-| Motherboard     | MSI Pro Z790-A MAX WiFi DDR5 Motherboard   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/msi-pro-z790-a-max-wifi-ddr5-motherboard) | 17495         | Supports DDR5 RAM                    |
-| RAM             | Corsair Vengeance RGB 64GB (2X32GB) 6000MHZ DDR5 DRAM Memory Kit   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/corsair-vengeance-rgb-64gb-2x32gb-6000mhz-ddr5-dram-memory-kit) | 13795         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | WD Black SN850X 2TB NVME M.2 2280 PCie Gen4 Internal Gaming SSD Compatible w/ PS5 (w/ Heatsink) (WDS200T2XHE)   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/wd-black-sn850x-2tb-nvme-m-2-2280-pcie-gen4-internal-gaming-ssd-compatible-w-ps5-w-heatsink-wds200t2xhe) | 11495         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | Samsung 870 EVO Sata III 2.5” SSD (2TB)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/samsung-870-evo-1tb-sata-iii-2-5-ssd-mz-77e1t0bw?variant=52453956354419)   | 9995         | SATA port supported                  |
-| GPU             | Zotac Gaming GeForce RTX 5080 Solid OC 16GB GDDR7 Graphics Card (ZT-B50800J-10P)   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/zotac-gaming-geforce-rtx-5080-solid-oc-16gb-gddr7-graphics-card-zt-b50800j-10p)    | 91995        | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | Corsair SF Series SF1000 1000W 80+ Platinum Fully Modular Low-Noise SFX Power Supply   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/corsair-sf-series-sf1000-1000w-80-platinum-fully-modular-low-noise-sfx-power-supply)   | 12495         | 650W, 80+ Bronze                     |
-| Case            | Fractal Design North XL Computer Case (Charcoal Black Mesh)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/fractal-design-north-xl-computer-case-charcoal-black-mesh-chalk-white-mesh-fd-c-nor1x-01-fd-c-nor1x-03)    | 10995         | ATX Mid-Tower                        |
-| Case Fans       | Arctic P12 Pro PST 5-Pack 120mm PWM Fan with Cable Splitter (Black) (ACFAN00307A)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/arctic-p12-pro-pst-5-pack-120mm-pwm-fan-with-cable-splitter-black-acfan00307a)    | 1450         | 120mm, 3-pin                         |
+| CPU             | Intel Core i9-14900K 14th Gen 3.2Ghz 24-Core LGA 1700 Processor   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-14900k-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900k) | 29995         | LGA1700 socket, supported by Z790 motherboard |
+| CPU Cooler      | Arctic Liquid Freezer III Pro 360 A-RGB Multi Compatible AIO CPU Water Cooler (Black)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/arctic-liquid-freezer-iii-pro-360-a-rgb-multi-compatible-aio-cpu-water-cooler-black-white)    | 6095         | LGA1700 compatible, 360mm fits case            |
+| Motherboard     | MSI Pro Z790-A MAX WiFi DDR5 Motherboard   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/msi-pro-z790-a-max-wifi-ddr5-motherboard) | 17495         | DDR5 support, multiple M.2 + SATA ports                    |
+| RAM             | Corsair Vengeance RGB 64GB (2X32GB) 6000MHZ DDR5 DRAM Memory Kit   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/corsair-vengeance-rgb-64gb-2x32gb-6000mhz-ddr5-dram-memory-kit) | 13795         | DDR5-6000 CL40, 2×32GB, dual-channel supported                |
+| Storage 1 (NVMe SSD) | WD Black SN850X 2TB NVME M.2 2280 PCie Gen4 Internal Gaming SSD Compatible w/ PS5 (w/ Heatsink) (WDS200T2XHE)   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/wd-black-sn850x-2tb-nvme-m-2-2280-pcie-gen4-internal-gaming-ssd-compatible-w-ps5-w-heatsink-wds200t2xhe) | 11495         | Fits into M.2 PCIe Gen4 x4 slot; comes with heatsink             |
+| Storage 2 (SATA SSD) | Samsung 870 EVO Sata III 2.5” SSD (2TB)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/samsung-870-evo-1tb-sata-iii-2-5-ssd-mz-77e1t0bw?variant=52453956354419)   | 9995         | SATA III port supported                  |
+| GPU             | Zotac Gaming GeForce RTX 5080 Solid OC 16GB GDDR7 Graphics Card (ZT-B50800J-10P)   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/zotac-gaming-geforce-rtx-5080-solid-oc-16gb-gddr7-graphics-card-zt-b50800j-10p)    | 91995        | Requires 3×8-pin PCIe power connectors; supported by PSU; fits case  |
+| PSU             | Corsair SF Series SF1000 1000W 80+ Platinum Fully Modular Low-Noise SFX Power Supply   | [DataBlitz](https://ecommerce.datablitz.com.ph/collections/all/products/corsair-sf-series-sf1000-1000w-80-platinum-fully-modular-low-noise-sfx-power-supply)   | 12495         | 1000W 80+ Platinum; has adapter bracket for ATX case                     |
+| Case            | Fractal Design North XL Computer Case (Charcoal Black Mesh)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/fractal-design-north-xl-computer-case-charcoal-black-mesh-chalk-white-mesh-fd-c-nor1x-01-fd-c-nor1x-03)    | 10995         | ATX mid-tower, supports 415mm GPUs & 360mm AIO                        |
+| Case Fans       | Arctic P12 Pro PST 5-Pack 120mm PWM Fan with Cable Splitter (Black) (ACFAN00307A)   | [DataBlitz](https://ecommerce.datablitz.com.ph/products/arctic-p12-pro-pst-5-pack-120mm-pwm-fan-with-cable-splitter-black-acfan00307a)    | 1450         | 120mm, PWM headers supported                         |
 | **Total**       |       |                    | **205,805 Php** | Within budget                        |
 
 ---
@@ -101,6 +101,7 @@ However, building a PC is always influenced by practical constraints such as loc
 
 - https://ecommerce.datablitz.com.ph/
 - https://pcpartpicker.com/list/yrgYsp
+
 
 
 
