@@ -1,4 +1,4 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 8
 
 **Course**: CSARCH2  
 **Section**: S18  
@@ -71,7 +71,7 @@ For each part, explain compatibility and choices.
 - **RAM**: Corsair Vengeance DDR5 64GB (2×32GB) 6000MHz is fully supported by the motherboard’s DDR5 slots and since the motherboard supports XMP (Extreme Memory Profiles), overclocking the memory is available.
 - **GPU**: Zotac Gaming RTX 5080 fits inside the Fractal North XL case. The motherboard provides the required PCIe x16 slot, and the 1000W PSU supplies sufficient power 
 - **PSU**: Corsair SF1000 (1000W) provides reliable and efficient power delivery. It meets the GPU and CPU power requirements
-- **Case + Cooling**: he Fractal North XL supports full-size ATX motherboards, large GPUs and multiple fans. 
+- **Case + Cooling**: The Fractal North XL supports full-size ATX motherboards, large GPUs and multiple fans. 
 
 ---
 
@@ -80,16 +80,19 @@ For each part, explain compatibility and choices.
 - **Final Total**: ₱205,805
 - ✅ Within budget 
 - The GPU (RTX 5080) is the single most expensive component, taking up almost half of the budget (44.7%).
-- The CPU and GPU were prioritized with the combined prices (121,900) being nearly 60% of the entire budget.
+- The CPU and GPU were prioritized, with the combined prices (121,900) being nearly 60% of the entire budget.
 - Rather than using an HDD for secondary storage, a SATA SSD was used due to better performance and budget.
 
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
+  When comparing international pricing to local Metro Manila vendors, one of the notable differences is the price gap. The places where parts are manufactured are clearly much cheaper compared to the parts here in the Philippines. This is a result of economic and logistical factors like import taxes and a 12% Value Added Tax (VAT) once imported parts enter the country, shipping costs from manufacturing hubs abroad or regional distributors, retailer mark-ups, currency fluctuations, and other factors. This is why high-end components like graphics cards and processors tend to launch cheaper abroad, but by the time they arrive in local stores, costs are inflated. While mainstream or older-generation parts may narrow the gap, PC builders who want the newest hardware often pay a premium locally.
+
+  Another major challenge for PC builders is stock availability. Limiting the vendors to buy from within Metro Manila is much more challenging as compared to buying or ordering parts from other regions or abroad because shops sometimes get limited allocations of parts, especially for new releases and premium variants, leading to higher prices or outright shortages. This challenge can also be attributed to high demand, and sometimes the volume of parts from vendors does not reach that demand. With this, many buyers are forced to either preorder and wait, consider alternative brands, or settle for lower-generation hardware at a better value. Relating to this, another problem encountered by PC builders is a tight budget and compromising on parts by finding cheaper equivalents. Although our budget fits just right for our high-end build, we definitely would have a more difficult time deciding on the final parts if our budget was much lower. While searching for parts, we encountered budget brands and non-flagship models of parts that are cheaper. However, these alternatives come with a cost of lower performance and reliability. Thus, we believe it is better to stick to buying PC parts from renowned brands and authorized resellers to ensure performance, warranty, and customer service, especially for parts like the PSU, which require stable voltage delivery to prevent damage to the other parts.
+
+  One of the most important lessons in PC building is ensuring the compatibility of parts. Even if a component is powerful on its own, it won’t function properly if it doesn’t match the socket, chipset, memory type, or physical clearance of the other components. For example, choosing DDR5 RAM requires a DDR5 motherboard, and a high-performance GPU needs enough space in the case and proper PSU support. Compatibility prevents wasted money and ensures the system runs smoothly without bottlenecks or conflicts. Equally important is finding balance in the requirements of different parts, as a system should be designed so that no single component is excessively overkill, while the others are underpowered. For instance, spending half the budget on a top-tier GPU but pairing it with a weak CPU or limited RAM leads to performance bottlenecks, just as buying an expensive CPU without a good cooler can cause thermal throttling. This ensures that all parts complement each other and that the investment is maximized across the build. Furthermore, it is vital to research and look into benchmarks, reviews, and user feedback as this would help buyers understand not just the raw specifications of a part but also its real-world performance, reliability, and potential issues. This would also avoid regrets and help set realistic expectations.
+
+  However, building a PC is always influenced by practical constraints such as local prices, budget, and availability. In the Philippines, for example, parts often cost more than international prices due to import taxes and limited stock. This can limit choices and force builders to either adjust their budget, wait for stock, or consider alternatives. These limitations shape the final build and highlight the need to be flexible with expectations. Moreover, this is why canvassing parts across multiple shops and platforms is essential, especially on a limited budget. Prices can vary significantly between vendors, and promotions or bundle deals sometimes offer good savings. By comparing options, PC builders can make smart trade-offs between price, performance, reliability, and long-term usability. It is not always about choosing the most expensive or latest components, but also striking the right balance between performance, efficiency, and longevity.
 
 ---
 ## 7. Video pitch
@@ -98,7 +101,11 @@ Reflections on:
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
-- Any technical documentation consulted  
+- Any technical documentation consulted
+
+- https://ecommerce.datablitz.com.ph/
+- https://pcpartpicker.com/list/yrgYsp
+
 
 
 
